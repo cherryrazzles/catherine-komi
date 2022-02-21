@@ -61,8 +61,10 @@
                   <div class="col s4 m2"><img alt="" src="images/react.png" class="responsive-img">React</div>
                   <div class="col s4 m2"><img alt="" src="images/jquery.png" class="responsive-img">jQuery</div>
                   <div class="col s4 m2"><img alt="" src="images/bootstrap.png" class="responsive-img">Bootstrap</div>
+									<div class="col s4 m2"><img alt="" src="images/tailwind.webp" class="responsive-img">Tailwind</div>
 
                 </div>
+
               </div>
 
 <div class="card-content skills">
@@ -72,6 +74,7 @@
   <div class="col s4 m2"><img alt="" src="images/express.png" class="responsive-img">Express</div>
   <div class="col s4 m2"><img alt="" src="images/sql.png" class="responsive-img">SQL</div>
   <div class="col s4 m2"><img alt="" src="images/mongodb.png" class="responsive-img">MongoDB</div>
+	<div class="col s4 m2"><img alt="" src="images/solidity.webp" class="responsive-img">Solidity</div>
 </div>
 </div>
 
