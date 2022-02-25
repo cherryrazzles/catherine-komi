@@ -294,8 +294,8 @@
 							<article id="projects">
 								<h2 class="major">Projects</h2>
 							<ul class="list-unstyled">
-									
-							
+
+
 									<li class="media my-4">
 								    <img class="image main" class="mr-3" src="images/GPT3.webp" alt="Generic placeholder image">
 								    <div class="media-body">
@@ -307,6 +307,21 @@
 							<ul class="actions">
 								<li><a href="https://distracted-nightingale-379ebd.netlify.app/" class="button primary">Preview</a></li>
 								<li><a href="https://github.com/cherryrazzles/ui-ux-website-in-react-js" class="button">GitHub</a></li>
+							</ul>
+										</div>
+								  </li>
+
+									<li class="media my-4">
+								    <img class="image main" class="mr-3" src="images/mia.webp" alt="Generic placeholder image">
+								    <div class="media-body">
+								      <h4 class="mt-0 mb-1">UI/UX Animation Gallery Website</h4>
+								      <p>
+												Animated Gallery created with parallax effect when scrolling. I created animated background that repeats the colors of the images and blends smoothly from one to another with Blur effect.
+												Language used: JavaScript/HTML/CSS
+									  </p>
+							<ul class="actions">
+								<li><a href="https://confident-blackwell-d221e1.netlify.app" class="button primary">Preview</a></li>
+								<li><a href="https://github.com/cherryrazzles/css-scroll-gallery-animation" class="button">GitHub</a></li>
 							</ul>
 										</div>
 								  </li>
