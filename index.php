@@ -326,6 +326,22 @@
 										</div>
 								  </li>
 
+								  <li class="media my-4">
+								    <img class="image main" class="mr-3" src="images/mouse.webp" alt="Generic placeholder image">
+								    <div class="media-body">
+								      <h4 class="mt-0 mb-1">Image Gallery Mouse Move Effect</h4>
+								      <p>
+												Created an image gallery which moves with the mouse position.
+												Language used: JavaScript/HTML/CSS
+									  </p>
+							<ul class="actions">
+								<li><a href="https://kind-lovelace-2cc86c.netlify.app/" class="button primary">Preview</a></li>
+								<li><a href="https://github.com/cherryrazzles/image-gallery-mouse-move-effect" class="button">GitHub</a></li>
+							</ul>
+										</div>
+								  </li>
+
+
 									<li class="media my-4">
 								    <img class="image main" class="mr-3" src="images/crypto-api.png" alt="Generic placeholder image">
 								    <div class="media-body">
